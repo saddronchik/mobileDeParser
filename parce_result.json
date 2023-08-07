@@ -1,0 +1,289 @@
+[
+    {
+        "name_auto": "Opel Astra K Lim.Edition 5trg. 36Tkm Bj.20 KD HU NEU",
+        "price_auto": "15 499 € ",
+        "year_auto": "01/2020",
+        "mileage": "36 176 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Audi Q5 40 TDI quattro S-tronic Navi Xenon 18\" Pano.",
+        "price_auto": "31 980 € ",
+        "year_auto": "12/2019",
+        "mileage": "49 990 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Renault Renault megane scenic Benzin bj 2002",
+        "price_auto": "1 000 € ",
+        "year_auto": "11/2002",
+        "mileage": "256 424 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Volkswagen Golf 2.0 TDI MATCH DPF BlueMotion Technology",
+        "price_auto": "7 599 € ",
+        "year_auto": "05/2012",
+        "mileage": "215 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Opel Astra H GTC Edition",
+        "price_auto": "2 299 € ",
+        "year_auto": "12/2008",
+        "mileage": "225 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Suzuki Suzuki Vitara,",
+        "price_auto": "2 100 € ",
+        "year_auto": "01/2000",
+        "mileage": "183 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "BMW BMW E46 - 320i Touring - Facelift - M/Paket",
+        "price_auto": "3 700 € ",
+        "year_auto": "10/2004",
+        "mileage": "255 500 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Seat Seat IBZA 1.2.   2007",
+        "price_auto": "1 250 € ",
+        "year_auto": "04/2007",
+        "mileage": "16 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Porsche Porsche Boxster S - FL, Handschalter, Spor...",
+        "price_auto": "42 900 € ",
+        "year_auto": "04/2010",
+        "mileage": "50 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Mercedes-Benz CLA 180 AMG Sport MBUX LED get. Scheiben PTS 19\"",
+        "price_auto": "32 950 € ",
+        "year_auto": "03/2021",
+        "mileage": "29 771 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Kia Niro e-Inspiration incl. P1/P2 sofort verfügbar",
+        "price_auto": "44 990 € ",
+        "year_auto": "Автоматическая КП",
+        "mileage": "150 кВт (204 PS)",
+        "kpp": "Электрический"
+    },
+    {
+        "name_auto": "BMW Bmw 330d m paket cabrio Performance",
+        "price_auto": "15 900 € ",
+        "year_auto": "10/2013",
+        "mileage": "257 000 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Kia Niro EV VISION KOM STY WP LED RFK SHZ CARPLAY  6",
+        "price_auto": "37 895 € ",
+        "year_auto": "08/2023",
+        "mileage": "50 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Volkswagen Touran Comfortline BMT+Navi+PDC+SHZ+Automatik+",
+        "price_auto": "11 970 € ",
+        "year_auto": "10/2014",
+        "mileage": "188 500 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Hyundai TUCSON blue Intro Edition 2WD 1.7 CRDi DPF Navi ",
+        "price_auto": "14 950 € ",
+        "year_auto": "09/2015",
+        "mileage": "109 856 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Mercedes-Benz Mercedes E 200",
+        "price_auto": "6 450 € ",
+        "year_auto": "04/2003",
+        "mileage": "157 000 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Peugeot Peugeot 207sw defekt",
+        "price_auto": "900 € ",
+        "year_auto": "06/2009",
+        "mileage": "220 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Audi Audi S4 B5",
+        "price_auto": "7 500 € ",
+        "year_auto": "07/1999",
+        "mileage": "290 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Mercedes-Benz Mercedes A180 CDI",
+        "price_auto": "2 250 € ",
+        "year_auto": "08/2005",
+        "mileage": "192 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Ford Focus 1.6 Finesse  Klimaautomatik+orig. 86.000km",
+        "price_auto": "699 € ",
+        "year_auto": "12/2002",
+        "mileage": "86 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Renault Renault Megane",
+        "price_auto": "500 € ",
+        "year_auto": "03/2001",
+        "mileage": "156 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Volvo Volvo C 30 2.0 Diesel Klima TÜV 06/24",
+        "price_auto": "2 500 € ",
+        "year_auto": "02/2007",
+        "mileage": "236 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Seat SEAT IBIZA IV (6L1) 1.4 16V",
+        "price_auto": "700 € ",
+        "year_auto": "08/2006",
+        "mileage": "182 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "BMW 0172 8776838 BMW X4 XDrive M Sport",
+        "price_auto": "25 990 € ",
+        "year_auto": "12/2017",
+        "mileage": "270 000 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Audi Audi A6 2.5TDI.S6 Automatic Zahnriemen Neu",
+        "price_auto": "3 600 € ",
+        "year_auto": "12/2003",
+        "mileage": "231 025 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Mercedes-Benz Mercedes Benz W123 Kombi,Tüv+H neu,Eibengr...",
+        "price_auto": "11 900 € ",
+        "year_auto": "11/1983",
+        "mileage": "144 450 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Peugeot 207 Filou/ Klima/Sitzheizung/Alufelgen/Allwetter",
+        "price_auto": "3 990 € ",
+        "year_auto": "03/2007",
+        "mileage": "76 900 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Volkswagen T-Roc 2.0 TSI 4Motion DSG Sport *ACC*LED*NAVI*SH",
+        "price_auto": "32 990 € ",
+        "year_auto": "01/2022",
+        "mileage": "17 000 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Volkswagen Vw Polo 9 n 1,2",
+        "price_auto": "2 499 € ",
+        "year_auto": "05/2008",
+        "mileage": "189 336 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Mercedes-Benz Mercedes-Benz E 270 absolut rostfrei",
+        "price_auto": "5 900 € ",
+        "year_auto": "03/2001",
+        "mileage": "245 000 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Opel Opel Corsa C Auf Wunsch mit frischem Tüv",
+        "price_auto": "850 € ",
+        "year_auto": "06/2002",
+        "mileage": "206 828 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Smart ForTwo  Cabrio Sonderedition 20x20/Leder/Shz",
+        "price_auto": "12 499 € ",
+        "year_auto": "12/2006",
+        "mileage": "27 192 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Ford Focus Turnier Finesse TÜV 04/2025",
+        "price_auto": "1 500 € ",
+        "year_auto": "07/2003",
+        "mileage": "120 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Mercedes-Benz A 180 AMG-Line/LED/Navi+/Alcantara/Kamera/Tempom",
+        "price_auto": "26 490 € ",
+        "year_auto": "09/2019",
+        "mileage": "54 631 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "BMW Gepflegter 728i nach Kat-Klau zu verkaufen",
+        "price_auto": "1 400 € ",
+        "year_auto": "12/1997",
+        "mileage": "243 000 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Volkswagen Sharan DSG Navi Pano Led 184PS el.Türen 6-Sitzer",
+        "price_auto": "26 790 € ",
+        "year_auto": "05/2016",
+        "mileage": "91 980 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Lexus LEXUS RX IV RX 450h 3.5 Luxury 263cv cvt",
+        "price_auto": "36 800 € ",
+        "year_auto": "09/2017",
+        "mileage": "99 800 км",
+        "kpp": "Автоматическая КП"
+    },
+    {
+        "name_auto": "Opel Opel Corsa 1.3 CDI  5 Türer sehr sparsam",
+        "price_auto": "4 200 € ",
+        "year_auto": "06/2012",
+        "mileage": "143 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Fiat Fiat 500X Pop Star *1,6l*Navi*",
+        "price_auto": "13 500 € ",
+        "year_auto": "08/2017",
+        "mileage": "33 200 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Volkswagen Golf VI Trendline Klima,Schiebedach",
+        "price_auto": "2 950 € ",
+        "year_auto": "04/2009",
+        "mileage": "279 000 км",
+        "kpp": "Механическая коробка передач"
+    },
+    {
+        "name_auto": "Audi AUDI A6 V 2019 Allroad A6 Allroad 50 3.0 tdi mhe",
+        "price_auto": "54 900 € ",
+        "year_auto": "12/2019",
+        "mileage": "69 788 км",
+        "kpp": "Автоматическая КП"
+    }
+]
