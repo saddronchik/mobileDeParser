@@ -10,7 +10,7 @@ headers = {
 
 
 def get_url():
-    for count in range(1, 2):
+    for count in range(1, 41):
 
         url = f"https://www.mobile.de/ru/категория/автомобиль/vhc:car,pgn:{count}pgs:50"
         response = requests.get(url, headers=headers)
@@ -23,33 +23,6 @@ def get_url():
             yield card_url 
 
 
-def array_items_price_name():
-    # result_list = []
-    for card_url_item in get_url():
-        response = requests.get(card_url_item,headers=headers)
-        # time.sleep(1)
-        soup = BeautifulSoup(response.text, "lxml")
-        data = soup.find("div", class_="cBox")
-       
-        # name_auto = data.find("h1", class_="h2").text
-        # price_auto = data.find("p", class_="u-text-bold").text.split("(Брутто)")[0]
-
-    print(data)
-
-    # result_list.append(
-    #         {
-    #             "name_auto":name_auto,
-    #             "price_auto":price_auto,
-                
-    #         }
-    # )
-
-    # with open ("parce_result.json","w") as file:
-    #     json.dump(result_list, file, indent=4, ensure_ascii=False)
-        
-    return "[INFO] Data collected successfully!"
-        # print(data)
-
 def array_items_teh_spec():
     result_list = []
     for card_url_item in get_url():
@@ -59,6 +32,9 @@ def array_items_teh_spec():
             soup = BeautifulSoup(response.text, "lxml")
             data_name = soup.find("div", class_="cBox")
             data = soup.find("div", class_="attributes-box")
+            data_tec = soup.find("div", class_="further-tec-data")
+            data_img = soup.find("div", class_="js-gallery-img-wrapper")
+
             name_auto = data_name.find("h1", class_="h2")
             if name_auto == None:
                 name_auto = "Марка не найдена"
@@ -70,18 +46,19 @@ def array_items_teh_spec():
                 price_auto = "цена не найдена"
             else:
                 pass
-                # print(price_auto.text.split("(Брутто)")[0])
 
             if price_auto == 'NoneType':
                 price_auto = "цена не найдена"
             else:
                 pass
-                # print(price_auto.text.split("(Брутто)")[0])
+
             name_auto = name_auto.text
             price_auto=price_auto.text.split("(Брутто)")[0]
             year_auto = data.find_all("span",class_="u-text-bold")[1].text
             mileage = data.find_all("span",class_="u-text-bold")[4].text
             kpp = data.find_all("span",class_="u-text-bold")[2].text
+            engine_capacity = data_tec.find_all("span", class_="g-col-6")[1].text
+            img = data_img.find("div",class_="js-load-on-demand").get("data-src")
 
             print(name_auto,price_auto,year_auto,mileage,kpp)
             result_list.append(
@@ -91,6 +68,8 @@ def array_items_teh_spec():
                     "year_auto":year_auto,
                     "mileage":mileage,
                     "kpp":kpp,
+                    "engine_capacity":engine_capacity,
+                    "img":img
                 })
 
             with open ("parce_result.json","w", encoding='utf-8') as file:
@@ -98,22 +77,6 @@ def array_items_teh_spec():
         except Exception as ex:
             print(ex)
         
-        
-
-
-
-        # data = soup.find("div", class_="further-tec-data")
-       
-        # if len(data) != 0:
-        #     engine_capacity = data.find_all("span",class_="u-text-bold")[5].text
-        #     print(engine_capacity)
-        #     # 
-        #     # print(engine_capacity)
-        # else:
-        #     pass
-      
-
-        # engine_capacity = data.select_one('.u-text-bold:nth-of-type(1)')
 
 
 def main():
